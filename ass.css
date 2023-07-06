@@ -1,0 +1,70 @@
+section {
+    border: 30px solid rgb(94, 0, 128);
+    background-color: rgb(68, 36, 68);
+    text-align: center;
+    
+}
+footer {
+    border-top: 1px solid rgb(172, 18, 172);
+    padding: 20px;
+}
+.create {
+    background-color: yellow;
+    padding: 10px 65px;
+    border-radius: 4px;
+    border: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.login {
+    background-color: rgb(18, 238, 18);
+    color: white;
+    border: none;
+    padding: 8px 100px;
+    border-radius: 4px;
+    font-size: medium;
+    cursor: pointer;
+}
+.input {
+    padding: 8px 30px 8px 7px;
+    border: 1px solid rgb(172, 18, 172);
+    border-radius: 4px;
+    background-color: rgb(46, 11, 46);
+    font-size: 16px;
+    color: white;
+}
+.password1 {
+    color: rgb(172, 18, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.img {
+    background-color: rgb(36, 5, 36);
+    width: 60px;
+    height: 60px;
+    border: 1px solid rgb(172, 18, 172);
+    border-radius: 30px;
+    vertical-align: middle;
+}
+#twitter {
+    margin-left: -15px;
+}
+.first {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    background-color: rgb(68, 36, 68);
+    border: none;
+    cursor: pointer;
+    vertical-align:middle;
+}
+header {
+    padding: 20px 110px;
+    vertical-align: middle;
+}
+div {
+    display: inline-block;
+    justify-content: center;
+}
